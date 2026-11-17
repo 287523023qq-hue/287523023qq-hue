@@ -10,7 +10,7 @@
 
 | Skill Package | Live Store / Showcase | Verified Standard | Description |
 | :--- | :---: | :---: | :--- |
-| **🎮 Game Universe Studio** | [**$0.99 on Agensi**](https://www.agensi.io/skills/game-universe-studio) · [**Showcase**](https://gaoyaguo.eu.cc) · [**GitHub**](https://github.com/287523023qq-hue/game-universe-studio) | `SKILL.md v1.0` *(Flagship)* | End-to-end studio turning ideas into playable WebGL/Canvas games, locked characters, 3D camera cutscenes, and viral Bento cards. |
+| **🎮 Game Universe Studio** | [**$1.00 on Agensi**](https://www.agensi.io/skills/game-universe-studio) · [**Showcase**](https://gaoyaguo.eu.cc) · [**GitHub**](https://github.com/287523023qq-hue/game-universe-studio) | `SKILL.md v1.0` *(Flagship)* | End-to-end studio turning ideas into playable WebGL/Canvas games, locked characters, 3D camera cutscenes, and viral Bento cards. |
 | **🎥 Cinematic Shot Prompting** | [**$3.99 on Agensi**](https://www.agensi.io/skills/cinematic-shot-prompting) | `Claude Skills Official (Merged)` | 6-Slot physical camera motion contract eliminating background warping & jitter in Kling & Runway. |
 | **👤 Character Creation Studio** | [**$6.99 on Agensi**](https://www.agensi.io/skills/character-creation-studio) | `SKILL.md v1.0` | 4-angle turnaround sheets & emotion matrix for 100% character face/costume consistency. |
 | **🍌 Nano Banana Video Visuals** | [**$4.99 on Agensi**](https://www.agensi.io/skills/nano-banana-video-visuals) | `SKILL.md v1.0` | High-CTR short video cover prompts, 3-second hook frames, and visual continuity packs. |
