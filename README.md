@@ -1,27 +1,39 @@
 # Hi there, I'm Guopeng (郭鹏) 👋
 
-### 🎬 AI Agent Architect & Cinematic Game World Engineer
+### 🎬 AI Agent Architect & Visual Production Engineer
 
-> Building Hollywood-grade camera mechanics, 100% consistent character turnaround pipelines, and interactive WebGL game showcase ecosystems (`SKILL.md`) for **Claude Code, Antigravity, Cursor, and Codex**.
+[![Agensi Verified Creator](https://img.shields.io/badge/Agensi-Verified%20Creator%20%E2%9C%94-2563eb?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/creators/creator-980&utm_source=github_profile)
+[![Flagship Bundle](https://img.shields.io/badge/4--in--1%20Bundle-%249.99%20(Save%2041%25)-10b981?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_profile)
+[![Live Showcase](https://img.shields.io/badge/Showcase-Interactive%20Demo-6366f1?style=for-the-badge)](https://287523023qq-hue.github.io/ai-cinematic-skills/)
+
+> Building deterministic `SKILL.md` production pipelines for **Claude Code, Antigravity, Cursor, and Codex** — eliminating AI video camera drift, enforcing 100% character turnaround consistency, and shipping playable browser game architectures.
 
 ---
 
-### 🚀 Featured AI Agent Skills (Live on Agensi & Open Source)
+### 🔥 Featured Official Bundle & Launch Deal
 
-| Skill Package | Live Store / Showcase | Verified Standard | Description |
+> **[🎁 AI Game & Visual Asset Studio Suite — $9.99 (Save 41% / $6.98 Off)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_profile)**  
+> Get **all 4 production skills** in one lifetime bundle (`$16.97` individual value → `$9.99`).  
+> ⚡ *New to Agensi? Signing up through the link above includes **$0.99 free balance** from Agensi.*
+
+---
+
+### 🚀 Production AI Agent Skills (Verified on Agensi)
+
+| Skill Package | Current Price | Verified Status | What It Solves |
 | :--- | :---: | :---: | :--- |
-| **🎮 Game Universe Studio** | [**$1.00 on Agensi**](https://www.agensi.io/skills/game-universe-studio) · [**Showcase**](https://gaoyaguo.eu.cc) · [**GitHub**](https://github.com/287523023qq-hue/game-universe-studio) | `SKILL.md v1.0` *(Flagship)* | End-to-end studio turning ideas into playable WebGL/Canvas games, locked characters, 3D camera cutscenes, and viral Bento cards. |
-| **🎥 Cinematic Shot Prompting** | [**$3.99 on Agensi**](https://www.agensi.io/skills/cinematic-shot-prompting) | `Claude Skills Official (Merged)` | 6-Slot physical camera motion contract eliminating background warping & jitter in Kling & Runway. |
-| **👤 Character Creation Studio** | [**$6.99 on Agensi**](https://www.agensi.io/skills/character-creation-studio) | `SKILL.md v1.0` | 4-angle turnaround sheets & emotion matrix for 100% character face/costume consistency. |
-| **🍌 Nano Banana Video Visuals** | [**$4.99 on Agensi**](https://www.agensi.io/skills/nano-banana-video-visuals) | `SKILL.md v1.0` | High-CTR short video cover prompts, 3-second hook frames, and visual continuity packs. |
+| **👤 [Character Creation Studio](https://www.agensi.io/r/CREATOR980D20B?to=/skills/character-creation-studio&utm_source=github_profile)** | 🔥 **`$5.00`** ~~$6.99~~ *(-28% Deal)* | `Agensi Verified ✔` | 8-angle orthographic turnaround sheets, expression matrices, and locked HEX color anchors without training LoRAs. |
+| **🎮 [Game Universe Studio](https://www.agensi.io/r/CREATOR980D20B?to=/skills/game-universe-studio&utm_source=github_profile)** | **`$1.00`** *(Starter)* | `claude-skills v2.14.15` | Deterministic browser game manifests, WebGL/Canvas pipelines, and locked 3D cutscene hooks. |
+| **🎥 [Cinematic Shot Prompting](https://www.agensi.io/r/CREATOR980D20B?to=/skills/cinematic-shot-prompting&utm_source=github_profile)** | **`$3.99`** | `claude-skills Merged` | 7-slot physical camera motion contract preventing background melting & zoom jitter in Runway, Kling, and Sora. |
+| **🍌 [Nano Banana Video Visuals](https://www.agensi.io/r/CREATOR980D20B?to=/skills/nano-banana-video-visuals&utm_source=github_profile)** | **`$4.99`** | `Agensi Verified ✔` | High-CTR covers, 3-second retention first frames, and multi-scene visual continuity prompt packs. |
 
 ---
 
-### 🏆 Open Source Milestones & Ecosystem
+### 🏆 Upstream Open Source Contributions
 
-- 🎮 **[Live Gaming Hub · WAKE THE GAMES](https://gaoyaguo.eu.cc)**: Playable 8-game matrix featuring 3D Speed Racing, CF Transport Ship WebGL, Black Myth Tiger Vanguard, and interactive cinematic story routes.
-- ⚡ **[claude-skills PR #1132](https://github.com/alirezarezvani/claude-skills/pull/1132)**: **MERGED** — Officially accepted into the official Claude Code Skills repository!
-- 🌟 **[ai-cinematic-skills](https://github.com/287523023qq-hue/ai-cinematic-skills)**: Full suite landing showcase, verified specs, and installation guides.
-- 💬 **Connect on X (Twitter)**: [@feifeifei12138_](https://x.com/feifeifei12138_)
+- ⚡ **[alirezarezvani/claude-skills#1132](https://github.com/alirezarezvani/claude-skills/pull/1132)** — **MERGED** (`cinematic-shot-prompting` camera motion contract compiler)
+- 🎮 **[alirezarezvani/claude-skills#1162](https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.15)** (via [#1161](https://github.com/alirezarezvani/claude-skills/pull/1161)) — **MERGED & Shipped in v2.14.15** (`game-universe-studio` browser game prototype pipeline)
+- 🌐 **[AI Cinematic Skills Interactive Showcase](https://287523023qq-hue.github.io/ai-cinematic-skills/)**: Live contract examples, skill breakdown, and direct Agensi install guide.
+- 💬 **X (Twitter)**: [@feifeifei12138_](https://x.com/feifeifei12138_)
 
-⭐️ *If any of my open-source AI skills helped your workflow, please consider starring the repositories!*
+⭐️ *If any of these skills saved you GPU credits or debugging time, please Star the repositories!*
