@@ -4,6 +4,7 @@
 
 [![Agensi Verified Creator](https://img.shields.io/badge/Agensi-Verified%20Creator%20%E2%9C%94-2563eb?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/creators/creator-980&utm_source=github_profile)
 [![Flagship Bundle](https://img.shields.io/badge/4--in--1%20Bundle-%249.99%20(Save%2041%25)-10b981?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_profile)
+[![Free Prompt Linter](https://img.shields.io/badge/Free%20Linter-Camera%20QuickCheck-059669?style=for-the-badge)](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)
 [![Live Showcase](https://img.shields.io/badge/Showcase-Interactive%20Demo-6366f1?style=for-the-badge)](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 > Building deterministic `SKILL.md` production pipelines for **Claude Code, Antigravity, Cursor, and Codex** — eliminating AI video camera drift, enforcing 100% character turnaround consistency, and shipping playable browser game architectures.
@@ -22,6 +23,7 @@
 
 | Skill Package | Current Price | Verified Status | What It Solves |
 | :--- | :---: | :---: | :--- |
+| **🔍 [Camera Prompt QuickCheck](https://github.com/287523023qq-hue/camera-prompt-quickcheck)** · *([Try Live](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck))* | 🆓 **`Free (MIT)`** | `Open Source` | Deterministic 0-API Python linter catching camera drift (`C01`–`C06`) before burning generation credits. |
 | **👤 [Character Creation Studio](https://www.agensi.io/r/CREATOR980D20B?to=/skills/character-creation-studio&utm_source=github_profile)** | 🔥 **`$5.00`** ~~$6.99~~ *(-28% Deal)* | `Agensi Verified ✔` | 8-angle orthographic turnaround sheets, expression matrices, and locked HEX color anchors without training LoRAs. |
 | **🎮 [Game Universe Studio](https://www.agensi.io/r/CREATOR980D20B?to=/skills/game-universe-studio&utm_source=github_profile)** | **`$1.00`** *(Starter)* | `claude-skills v2.14.15` | Deterministic browser game manifests, WebGL/Canvas pipelines, and locked 3D cutscene hooks. |
 | **🎥 [Cinematic Shot Prompting](https://www.agensi.io/r/CREATOR980D20B?to=/skills/cinematic-shot-prompting&utm_source=github_profile)** | **`$3.99`** | `claude-skills Merged` | 7-slot physical camera motion contract preventing background melting & zoom jitter in Runway, Kling, and Sora. |
